@@ -1,0 +1,13 @@
+# User exports and diagnostics must not be committed.
+*.csv
+*.zip
+vk-music-collection*.json
+vk-layout-diagnostic*.json
+.env
+.env.*
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+work/
